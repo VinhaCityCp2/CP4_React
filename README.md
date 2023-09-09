@@ -5,9 +5,9 @@
 <h3>Integrantes do grupo: </h3>
 
 <ul> 
-  <li> RM550233 - Fellype Dos Santos Laes </li>
-  <li> RM550539 - Guilherme Fazito </li>
-  <li> RM551528 - Henrique Lima </li>
-  <li> RM98860  - Ian Xavier Kuraoka </li>
-  <li> RM98287  - Raí Gumieri dos Santos </li>
+  <li> <b> RM550233 - </b> Fellype Dos Santos Laes </li>
+  <li> <b> RM550539 - </b> Guilherme Fazito </li>
+  <li> <b> RM551528 - </b> Henrique Lima </li>
+  <li> <b> RM98860  - </b> Ian Xavier Kuraoka </li>
+  <li> <b> RM98287  - </b> Raí Gumieri dos Santos </li>
 </ul>
