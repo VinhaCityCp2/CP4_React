@@ -1,4 +1,4 @@
-<h1> CheckPoint 4 - Web Development </h1> 
+<h1 align="center"> CheckPoint 4 - Web Development </h1> 
 
 <h3>Link do projeto: https://projeto1-pi-three.vercel.app/ </h3>
 
