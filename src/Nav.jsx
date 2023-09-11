@@ -6,11 +6,13 @@ function Nav(){
     
     return(
         <>
+        
         <NavLink to='Home'> Home </NavLink>
         <NavLink to='Produtos'> Produtos </NavLink>
         <NavLink to='Sobre'> Sobre </NavLink>
         </>
-        
+    
+
     )
 }
 
